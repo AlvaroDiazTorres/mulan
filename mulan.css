@@ -1,0 +1,22 @@
+body{
+    width: 90%;
+    margin: auto;
+    border: 1px solid yellow;
+    padding: 10px;
+}
+
+ul{
+    background-color: gray;
+}
+
+.prota{
+    color: blue;
+}
+
+.villano{
+    color: red;
+}
+
+.majo{
+    color: yellow;
+}
